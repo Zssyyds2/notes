@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.Ky2joiGc.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"project/lx-路由切换.md","filePath":"project/lx-路由切换.md","lastUpdated":null}'),r={name:"project/lx-路由切换.md"};function o(c,s,n,_,p,l){return a(),t("div")}const m=e(r,[["render",o]]);export{i as __pageData,m as default};

@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t}from"./chunks/framework.Ky2joiGc.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"backend/database.md","filePath":"backend/database.md","lastUpdated":null}'),s={name:"backend/database.md"};function d(n,c,r,o,p,_){return t(),e("div")}const m=a(s,[["render",d]]);export{l as __pageData,m as default};
