@@ -44,7 +44,7 @@ export default defineConfig({
         },
         {
           text: "TypeScript",
-          items: [{ text: "TypeScript", link: "/frontend/ts" }],
+          items: [{ text: "泛型", link: "/frontend/ts" }],
         },
         {
           text: "Vue",

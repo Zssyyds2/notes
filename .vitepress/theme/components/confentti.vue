@@ -18,7 +18,7 @@ function randomInRange(min, max) {
   skew = Math.max(0.8, skew - 0.001);
 
   confetti({
-    className: 'confetti-particle',
+
     particleCount: 1,
     startVelocity: 0,
     ticks: ticks,
