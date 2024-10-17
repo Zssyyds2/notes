@@ -74,9 +74,11 @@ export default defineConfig({
         {
           text: "金色年华开发--理响",
           items: [
-            { text: "项目起步", link: "/project/lx-yilai" },
-            { text: "底部导航", link: "/project/lx-tabbar" },
-            { text: "路由切换", link: "/project/lx-路由切换" }
+            { text: "项目起步", link: "/project/lx/lx-yilai" },
+            { text: "底部导航", link: "/project/lx/lx-tabbar" },
+            { text: "路由切换", link: "/project/lx/lx-路由切换" },
+            { text: "home界面", link: "/project/lx/lx-home" },
+            { text: "home传参", link: "/project/lx/lx-home调用接口.md" },
           ],
 
         },
@@ -124,9 +126,9 @@ export default defineConfig({
       noExternal: ["@excook/vitepress-theme", "vitepress"],
     },
   },
-  markdown:{
-    image:{
-      lazyLoading:true
+  markdown: {
+    image: {
+      lazyLoading: true
     }
   }
 });
