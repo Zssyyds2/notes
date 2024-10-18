@@ -78,6 +78,7 @@ export default defineConfig({
             { text: "底部导航", link: "/project/lx/lx-tabbar" },
             { text: "路由切换", link: "/project/lx/lx-路由切换" },
             { text: "home界面", link: "/project/lx/lx-home" },
+            { text: "封装http", link: "/project/lx/lx-http的封装.md" },
             { text: "home传参", link: "/project/lx/lx-home调用接口.md" },
           ],
 
